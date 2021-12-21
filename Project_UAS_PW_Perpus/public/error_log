@@ -1,0 +1,1 @@
+[07-Dec-2021 15:47:26 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.2". You are running 7.3.21. in /home/tamanimp/vocarito.com/UAS/Project_UAS_PW_Perpus/vendor/composer/platform_check.php on line 24
